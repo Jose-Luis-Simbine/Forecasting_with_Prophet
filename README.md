@@ -23,6 +23,10 @@ The project aims to enhance the operational efficiency of the bike rental servic
 - `scripts/`: Python scripts for data processing and forecast generation.
 - `results/`: Forecast results and generated visualizations.
 
+## Project Translation
+
+The project was originally developed in Portuguese. However, a version of the code with translated Markdown documentation into English is available in this repository. This ensures accessibility for English-speaking users and facilitates a broader understanding of the project's scope and findings.
+
 ## Objective
 
 The main goal of this project is to provide a clear view of future bike demand, helping the rental service make informed decisions about inventory management and strategic planning. Through data analysis and predictive modeling, we aim to optimize operations and improve customer experience.
